@@ -39,7 +39,7 @@ Weather-Analysis/
 ├── README.md                    # Project documentation
 ├── requirements.txt             # Dependencies
 ├── data/                        # (Optional) Folder for storing datasets
-
+```
 ---
 
 ## How to Run the Project
